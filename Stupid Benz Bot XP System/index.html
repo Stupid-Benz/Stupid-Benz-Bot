@@ -11,10 +11,10 @@
         <script src="script.js"></script>
         <script>
             getData();
-            
+
             async function getData() {
                 const users = await fetch(
-                    'https://repl.it/@StupidBenz/xpsystem#user.json'
+                    'https://raw.githubusercontent.com/Stupid-Benz/Stupid-Benz-Bot/master/Stupid%20Benz%20Bot%20XP%20System/user.json?token=APX53RVZK5AJGCVTL4UYZUK64SVLK'
                 );
                 const data = await users.json();
                 console.log(data);
