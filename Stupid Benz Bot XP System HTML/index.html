@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>repl.it</title>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+</script>
+    </head>
+    <body>
+        <script src="script.js"></script>
+        <script>
+            getData();
+            
+            async function getData() {
+                const users = await fetch(
+                    'https://repl.it/@StupidBenz/xpsystem#user.json'
+                );
+                const data = await users.json();
+                console.log(data);
+            }
+        </script>
+    </body>
+</html>

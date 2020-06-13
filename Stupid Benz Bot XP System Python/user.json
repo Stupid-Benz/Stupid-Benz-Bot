@@ -1,0 +1,30 @@
+{
+  "Stupid Benz": {
+    "user.id": 666186125026525194,
+    "user.avatar": "https://cdn.discordapp.com/avatars/666186125026525194/2e09ff1f5dcebd6891d4cebe4bbea064.webp?size=1024",
+    "experience": 245,
+    "messageno": 49,
+    "level": 1
+  },
+  "Cathay3520": {
+    "user.id": 589760724323139631,
+    "user.avatar": "https://cdn.discordapp.com/avatars/589760724323139631/187c68cf16b7b414cb20e975d05097c2.webp?size=1024",
+    "experience": 15,
+    "messageno": 3,
+    "level": 1
+  },
+  "Siriusmart": {
+    "user.id": 623823202073706496,
+    "user.avatar": "https://cdn.discordapp.com/avatars/623823202073706496/970b669c838c0ede44051a5e0b449f89.webp?size=1024",
+    "experience": 15,
+    "messageno": 3,
+    "level": 1
+  },
+  "windowsboy111": {
+    "user.id": 653086042752286730,
+    "user.avatar": "https://cdn.discordapp.com/avatars/653086042752286730/800c0f17a309d610b9d0748cb924a561.webp?size=1024",
+    "experience": 130,
+    "messageno": 26,
+    "level": 1
+  }
+}
