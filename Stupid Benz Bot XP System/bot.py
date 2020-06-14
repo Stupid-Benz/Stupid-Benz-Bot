@@ -4,9 +4,9 @@ import os
 import random
 from discord.ext import commands
 
-TOKEN = 'NjkxMTExMjc5MzgwNjYwMjU0.XuN9Qg.6oj3fGqRCFM6ZI2y9LykMK7k2rg'
+TOKEN = 'NjkxMTExMjc5MzgwNjYwMjU0.XuWHzA.FlgQhiPNuyqsfDwbZaMMbI7bSPQ'
 client = commands.Bot(command_prefix = '=')
-os.chdir(r'C:\Users\tpwon\OneDrive\文件\Project\Misaka Mikoto Python')
+os.chdir(r'C:\Users\tpwon\OneDrive\文件\GitHub\Stupid-Benz-Bot\Stupid Benz Bot XP System')
 
 @client.event
 async def on_ready():
@@ -21,7 +21,7 @@ async def on_member_join(member):
 
     with open('user.json', 'w') as f:
         json.dump(users, f)
-    
+
     channel = client.get_channel(664409663982272513)
     await channel.send('Hey {}, welcome to **The Official KCCS server!!!** :tada::hugging: !\nYou will be muted for 3 minutes so that you may have time to read the **rules** and explore the server.\nHave Fun!'.format(member.mention))
 
@@ -59,7 +59,7 @@ async def add_experience(users, user, exp):
 async def level_up(users, user, channel):
     experience = users[user.name]['experience']
     lvl_start = users[user.name]['level']
-    lvl_end = int(experience ** (1/10))
+    lvl_end = int(experience ** (1/5))
 
     if lvl_start < lvl_end:
         channel = client.get_channel(664409663982272513)
