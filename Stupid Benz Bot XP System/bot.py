@@ -38,18 +38,17 @@ async def on_message(message):
         json.dump(users, f)
 
 async def update_data(users, user):
-  botname = ['Dyno', 'MEE6', 'Merlin', 'Misaka Mikoto', 'Groovy', 'KCCSdiscSRV']
-  if user.name in botname:
-    return
+  if user.id == '155149108183695360' or user.id == '159985870458322944' or user.id == '691111279380660254' or user.id == '673519262249517075' or user.id == '690839099648638977' or user.id == '234395307759108106':
+        return
   else:
-    if not user.name in users:
-        users[user.name] = {}
-        users[user.name]['user.id'] = user.id
-        users[user.name]['user.avatar'] = str(user.avatar_url)
-        users[user.name]['experience'] = 0
-        users[user.name]['messageno'] = 0
-        users[user.name]['level'] = 1
-        return users
+        if not user.name in users:
+            users[user.name] = {}
+            users[user.name]['user.id'] = user.id
+            users[user.name]['user.avatar'] = str(user.avatar_url)
+            users[user.name]['experience'] = 0
+            users[user.name]['messageno'] = 0
+            users[user.name]['level'] = 1
+            return users
 
 async def add_experience(users, user, exp):
     users[user.name]['experience'] += exp
@@ -59,7 +58,9 @@ async def add_experience(users, user, exp):
 async def level_up(users, user, channel):
     experience = users[user.name]['experience']
     lvl_start = users[user.name]['level']
-    lvl_end = int(experience ** (1/5))
+    lvl_end = int(experience ** (1/4))
+    users[user.name]['nextlevelexp'] = (int(experience ** (1/4)) + 1) ** 4 - experience
+    return users
 
     if lvl_start < lvl_end:
         channel = client.get_channel(664409663982272513)
