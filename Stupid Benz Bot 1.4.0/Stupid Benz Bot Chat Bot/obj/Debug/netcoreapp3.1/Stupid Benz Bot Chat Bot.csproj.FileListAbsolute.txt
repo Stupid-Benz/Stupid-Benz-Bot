@@ -1,0 +1,24 @@
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.exe
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.csprojAssemblyReference.cache
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.AssemblyInfoInputs.cache
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.AssemblyInfo.cs
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.csproj.CopyComplete
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.deps.json
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.runtimeconfig.json
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.runtimeconfig.dev.json
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.pdb
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.csproj.CoreCompileInputs.cache
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.dll
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.pdb
+C:\Users\tpwon\source\repos\Stupid Benz Bot\Stupid Benz Bot Chat Bot\obj\Debug\netcoreapp3.1\Stupid Benz Bot Chat Bot.genruntimeconfig.cache
