@@ -7,7 +7,7 @@ app = Flask(__name__)
 def main():
 	result = ''
 	try:
-		f = open('./index.html', 'r')
+		f = open('./html/index.html', 'r')
 		result = f.read()
 		f.close()
 	except:
@@ -19,7 +19,7 @@ def main():
 def css():
 	result = ''
 	try:
-		f = open('style.css', 'r')
+		f = open('./html/style.css', 'r')
 		result = f.read()
 		f.close()
 	except:
@@ -33,7 +33,7 @@ def css():
 def js():
 	result = ''
 	try:
-		f = open('script.js', 'r')
+		f = open('./html/script.js', 'r')
 		result = f.read()
 		f.close()
 	except:
@@ -47,7 +47,7 @@ def js():
 def json():
 	result = ''
 	try:
-		f = open('user.json', 'r')
+		f = open('./user.json', 'r')
 		result = f.read()
 		f.close()
 	except:
@@ -55,20 +55,6 @@ def json():
 		    'Content-Type': 'text/plain; charset=utf-8'
 		}
 	return result, 200, {'Content-Type': 'application/json; charset=utf-8'}
-
-
-@app.route('/img/KCCS_Official_Classic.png')
-def png():
-	result = ''
-	try:
-		f = open('KCCS_Official_Classic.png', 'r')
-		result = f.read()
-		f.close()
-	except:
-		result = 'error fetching data.', 400, {
-		    'Content-Type': 'text/plain; charset=utf-8'
-		}
-	return result, 200, {'Content-Type': 'image/png; charset=utf-8'}
 
 
 def init():
