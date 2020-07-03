@@ -7,45 +7,54 @@ using System.Net.NetworkInformation;
 using Discord.Commands;
 using Discord;
 using Discord.WebSocket;
+using Discord.Rest;
 
 namespace Stupid_Benz_Bot.Modules
 {
     public class Commands : ModuleBase<SocketCommandContext>
     {
-        // Entering "=ping" to show Pong! @People The latency is PingTime ms.
+        //Enter "=ping"
         [Command("ping")]
         public async Task Ping()
         {
+            
             await ReplyAsync("**Pong!** " + Context.Message.Author.Mention + "\n" +
-                "The latency is " + "**" + PingTime() + "**" + " ms.");
+                "The latency is " + "**" + "Cant Use This Function, " +
+                "Please wait until @Stupid Benz back first" + "**" + " ms.");
         }
+        
 
-        public float PingTime()
+        //Counting Ping Time
+        public string PingTime()
         {
-            string createTime = Context.Message.CreatedAt.Second.ToString()
-                + "." + Context.Message.CreatedAt.Millisecond.ToString();
-            string Now = DateTime.Now.Second.ToString()
-                + "." + DateTime.Now.Millisecond.ToString();
-            float cTime = float.Parse(createTime);
-            float now = float.Parse(Now);
-            float pingTime = Math.Abs((now - cTime) * 1000);
+            string cSec = Context.Message.Timestamp.Second.ToString();
+            string cMs = Context.Message.Timestamp.Millisecond.ToString();
+            string nSec = DateTime.Now.Second.ToString();
+            string nMs = DateTime.Now.Millisecond.ToString();
+            float cTime = float.Parse(cSec) * 1000
+                + float.Parse(cMs);
+            float nTime = float.Parse(nSec) * 1000
+                + float.Parse(nMs);
+            string pingTime = (nTime - cTime).ToString();
             return pingTime;
         }
 
-        // Entering "=hi" to show Bye @People
+        //Enter "=hi"
         [Command("hi")]
         public async Task Hi()
         {
             await ReplyAsync("Hi " + Context.Message.Author.Mention + "\nWhat's problem??");
         }
 
+        //Enter "=test"
         [Command("test")]
         public async Task Test()
         {
-            await ReplyAsync(TaskAns());
+            await ReplyAsync(TestAns());
         }
 
-        public string TaskAns()
+        //Test Reply
+        public string TestAns()
         {
             Random rnd = new Random();
             string[] Ans =
@@ -56,49 +65,54 @@ namespace Stupid_Benz_Bot.Modules
             return reply;
         }
 
+        //Enter "=say [message]"
         [Command("say")]
         [Summary("Echoes a message.")]
-        public Task SayAsync([Remainder][Summary("The text to echo")] string echo)
-            => ReplyAsync(echo);
+        public async Task Say([Remainder][Summary("The text to echo")] string echo)
+        {
+            await ReplyAsync(echo);
+        }
 
+        //Enter "=sin [degree]"
         [Command("sin")]
         [Summary("Enter degree")]
-        public Task SinAsync([Remainder][Summary("Enter degree")] double degree)
+        public Task SinAsync([Remainder][Summary("Enter degree")] float degree)
         {
-            double Ans = Math.Sin(degree * Math.PI / 180);
-            string ans = Ans.ToString();
+            string ans = Math.Sin(degree * Math.PI / 180).ToString();
             return ReplyAsync(ans);
         }
 
+        //Enter "=cos [degree]"
         [Command("cos")]
         [Summary("Enter degree")]
-        public Task CosAsync([Remainder][Summary("Enter degree")] double degree)
+        public Task CosAsync([Remainder][Summary("Enter degree")] float degree)
         {
-            double Ans = Math.Cos(degree * Math.PI / 180);
-            string ans = Ans.ToString();
+            string ans = Math.Cos(degree * Math.PI / 180).ToString();
             return ReplyAsync(ans);
         }
 
+        //Enter "=tan [degree]"
         [Command("tan")]
         [Summary("Enter degree")]
-        public Task TanAsync([Remainder][Summary("Enter degree")] double degree)
+        public Task TanAsync([Remainder][Summary("Enter degree")] float degree)
         {
-            double Ans = Math.Tan(degree * Math.PI / 180);
-            string ans = Ans.ToString();
+            string ans = Math.Tan(degree * Math.PI / 180).ToString();
             return ReplyAsync(ans);
         }
 
+        //Enter "=surd [integer number]"
         [Command("surd")]
         [Summary("Enter number")]
-        public Task Surd([Remainder][Summary("Enter number")] int num)
+        public async Task Surd([Remainder][Summary("Enter a number")] int num)
         {
             string ans = Math.Sqrt(num).ToString();
-            return ReplyAsync(ans);
+            await ReplyAsync(ans + ", -" + ans);
         }
 
+        //Enter "=ssurd [integer number]"
         [Command("ssurd")]
-        [Summary("Enter number")]
-        public async Task SimplifiedSurd([Remainder][Summary("Enter number")] int num)
+        [Summary("Enter a number")]
+        public async Task SimplifiedSurd([Remainder][Summary("Enter a number")] int num)
         {
             await ReplyAsync(Sqrt2(num).ToString());
         }
@@ -119,6 +133,52 @@ namespace Stupid_Benz_Bot.Modules
             }
 
             return (m, n);
+        }
+
+        [Command("sq")]
+        [Summary("Enter a number")]
+        public async Task Square([Remainder][Summary("Enter a number")] float num)
+        {
+            string ans = (num * num).ToString();
+            await ReplyAsync(ans);
+        }
+
+        [Command("cu")]
+        [Summary("Enter a number")]
+        public async Task Cubic([Remainder][Summary("Enter a number")] float num)
+        {
+            string ans = (num * num * num).ToString();
+            await ReplyAsync(ans);
+        }
+
+
+
+        [Command("quad")]
+        public async Task QuadraticReply(int a, int b, int c)
+        {
+            string vertixx = (-b / (2 * a)).ToString();
+            string vertixy = (c - b * b / (4 * a)).ToString();
+            float delta = (b * b - 4 * a * c);
+            string ans1 = ((-b + Math.Sqrt(delta)) / (2 * a)).ToString();
+            string ans2 = ((-b - Math.Sqrt(delta)) / (2 * a)).ToString();
+            if (ans1 == "NaN")
+            {
+                await ReplyAsync("(" + vertixx + ", " + vertixy
+                    + "), " + delta.ToString()
+                    + ", Math Error");
+            }
+            else if (ans1 == ans2)
+            {
+                await ReplyAsync("(" + vertixx + ", " + vertixy
+                    + "), " + delta.ToString()
+                    + ", " + ans1);
+            }
+            else
+            {
+                await ReplyAsync("(" + vertixx + ", " + vertixy
+                    + "), " + delta.ToString()
+                    + ", " + ans1 + " or " + ans2);
+            }
         }
     }
 }
