@@ -17,6 +17,8 @@ namespace Stupid_Benz_Bot.Modules
                 "\nUtils:" +
                 "\n   ping    Tells you the ping from discord to the bot" +
                 "\n   say     Send a message by This Bot" +
+                "\n   spam    Spaming" +
+                "\n   rank    Get the rank in json file" +
                 "\nMathematics:" +
                 "\n   sin     Sine Function" +
                 "\n   cos     Cosin Function" +
@@ -26,6 +28,8 @@ namespace Stupid_Benz_Bot.Modules
                 "\n   sq      Squre Function" +
                 "\n   cu      Cubic Function" +
                 "\n   quad    Quadratic Function" +
+                "\n   fac     Find all Factor Function" +
+                "\n   pf      Prime Factorization Funtion" +
                 "\n" +
                 "\nType =help [command] for more info on a command.```");
         }
@@ -100,7 +104,39 @@ namespace Stupid_Benz_Bot.Modules
         {
             await ReplyAsync("```quad   Type '=quad [Number]'" +
                 "\n       The reply is (x position of vertix, y position of vertix), delta, " +
+                "first answer of x, second answer of x" +
                 "\nType =help [command] for more info on a command.```");
+        }
+
+        [Command("help fac")]
+        public async Task HelpFac()
+        {
+            await ReplyAsync("```fac    Type '=fac [Integer Number]'" +
+                "\n       Please Don't larger than 500" +
+                "\nType =help [command] for more info on a command.```");
+        }
+
+        [Command("help pf")]
+        public async Task HelpPf()
+        {
+            await ReplyAsync("```pf     Type '=pf [Integer Number]'" +
+                "\n       Please Don't larger than 500" +
+                "\nType =help [command] for more info on a command.```");
+        }
+
+        [Command("help spam")]
+        public async Task HelpSpam()
+        {
+            await ReplyAsync("```spam   Type '=spam [Text] [Times]'" +
+                "\n       Please Don't larger than 10" +
+                "\nType =help [command] for more info on a command.```");
+        }
+
+        [Command("help rank")]
+        public async Task HelpRank()
+        {
+            await ReplyAsync("```rank   Type '=rank'" +
+                "\nType =help [command] for more info on a command.");
         }
     }
 }
