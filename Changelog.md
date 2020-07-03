@@ -40,3 +40,23 @@
 
 ### New Update
 + Put Mathematics Command into new Command file call `Mathematics Commands.cs`
+
+## [1.3.0]
+### Added
++ `User Info` Command
++ A Chatbot with simple reply
+
+## [1.3.1]
+### Deleted
+- Chatbot
+
+### Repair
++ Commands repair
+
+## [1.3.2]
+### Repair
++ Repair Project
+
+## Upcoming
+### New Update
++ Make some message to embed message
