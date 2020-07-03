@@ -61,3 +61,12 @@
 ## Upcoming
 ### New Update
 + Make some message to embed message
+
+# Python
+## [1.0]
+### Added
++ Rank System
+
+## [1.1]
+### Added
++ Karma Project System
