@@ -1,0 +1,123 @@
+{
+  "3eR0 ON TOP": {
+    "avatar": "https://cdn.discordapp.com/avatars/450264676887166986/fc1071c03d5227a9e814a2764e36c3c7.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 595,
+    "id": "450264676887166986",
+    "lvl": 24,
+    "msg": 119,
+    "name": "3eR0 ON TOP",
+    "needExp": 30
+  },
+  "Africa Panda": {
+    "avatar": "https://cdn.discordapp.com/avatars/694441489622630452/c4d6386d2cc5c2d414edccb62c315ca6.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 140,
+    "id": "694441489622630452",
+    "lvl": 11,
+    "msg": 28,
+    "name": "Africa Panda",
+    "needExp": 4
+  },
+  "BlackMan": {
+    "avatar": "https://cdn.discordapp.com/avatars/483866186740924436/eb510c5e341fd5af70927150c107a981.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 30,
+    "id": "718761960346484808",
+    "lvl": 5,
+    "msg": 6,
+    "name": "BlackMan",
+    "needExp": 6
+  },
+  "Cathay3520": {
+    "avatar": "https://cdn.discordapp.com/avatars/589760724323139631/187c68cf16b7b414cb20e975d05097c2.png?size=256",
+    "balance": 0,
+    "balances": 0,
+    "exp": 51540,
+    "id": "589760724323139631",
+    "lvl": 227,
+    "msg": 10308,
+    "name": "Cathay3520",
+    "needExp": 444
+  },
+  "Justinude Yiporn": {
+    "avatar": "https://cdn.discordapp.com/avatars/331681736415248404/2b849ce8f216a360c9e1b0983feac553.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 4210,
+    "id": "331681736415248404",
+    "lvl": 64,
+    "msg": 842,
+    "name": "Justinude Yiporn",
+    "needExp": 15
+  },
+  "Siriusmart": {
+    "avatar": "https://cdn.discordapp.com/avatars/623823202073706496/970b669c838c0ede44051a5e0b449f89.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 68885,
+    "id": "623823202073706496",
+    "lvl": 262,
+    "msg": 13777,
+    "name": "Siriusmart",
+    "needExp": 284
+  },
+  "Stupid Benz": {
+    "avatar": "https://cdn.discordapp.com/avatars/666186125026525194/2e09ff1f5dcebd6891d4cebe4bbea064.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 79800,
+    "id": "666186125026525194",
+    "lvl": 282,
+    "msg": 15960,
+    "name": "Stupid Benz",
+    "needExp": 289
+  },
+  "Vincintelligent": {
+    "avatar": "https://cdn.discordapp.com/avatars/664644679232520233/6ceab73bfcb22b671108d72516428def.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 87220,
+    "id": "664644679232520233",
+    "lvl": 295,
+    "msg": 17444,
+    "name": "Vincintelligent",
+    "needExp": 396
+  },
+  "Winnie": {
+    "avatar": "https://cdn.discordapp.com/avatars/718761960346484808/e4affa17d1a2484c980668d9660c93da.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 55,
+    "id": "718761960346484808",
+    "lvl": 7,
+    "msg": 11,
+    "name": "Winnie",
+    "needExp": 9
+  },
+  "dqrkness": {
+    "avatar": "https://cdn.discordapp.com/avatars/625178335638454287/c7a19be2f23837a2b8a73a715e79cef3.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 225,
+    "id": "718761960346484808",
+    "lvl": 15,
+    "msg": 45,
+    "name": "dqrkness",
+    "needExp": 31
+  },
+  "windowsboy111": {
+    "avatar": "https://cdn.discordapp.com/avatars/653086042752286730/800c0f17a309d610b9d0748cb924a561.png?size=1024",
+    "balance": 0,
+    "balances": 0,
+    "exp": 145500,
+    "id": "653086042752286730",
+    "lvl": 381,
+    "msg": 29100,
+    "name": "windowsboy111",
+    "needExp": 424
+  }
+}
