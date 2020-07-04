@@ -1,18 +1,20 @@
 # C#
 ## Upcoming
-### New Update
-+ Make some message to embed message
+
+## [1.4.0]
+### Changed
++ Make some message send with embed message
 
 ## [1.3.2]
 ### Repair
-+ Repair Project
++ Repair Project thats makes the project without error
 
 ## [1.3.1]
 ### Deleted
 - Chatbot
 
 ### Repair
-+ Commands repair
++ Makes some commands become better
 
 ## [1.3.0]
 ### Added
@@ -26,7 +28,7 @@
 + `Factor` Command
 + `Prime Factorization` Command
 
-### New Update
+### Repair
 + Put Mathematics Command into `Mathematics Commands.cs`
 
 ## [1.1.1]
@@ -35,7 +37,7 @@
 + `Cubic` Command
 + `Quadratic` Command
 
-### Deleted
+### Removed
 - Ping time in `Ping` Command
 
 ## [1.1.0]
@@ -50,11 +52,11 @@
 + `Surd` Command
 + `Simplfy Surd` Command
 
-### New Update
+### Repair
 + Put Help Command into `Help Commands.cs`
 
 ## [1.0.1]
-### Deleted
+### Removed
 - `Hi` Command
 
 ## [1.0.0]
