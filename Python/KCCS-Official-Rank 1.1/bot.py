@@ -4,7 +4,7 @@ import random
 import time
 from discord.ext import commands
 
-TOKEN = 'NjkxMTExMjc5MzgwNjYwMjU0.Xu4S1A.KeQw02GA9FB37nlcjxZXlB_chD0'
+TOKEN = 'NjkxMTExMjc5MzgwNjYwMjU0.Xv8LdA.BByAmBDAq_HWo05Zf7C5zYQo818'
 bot = commands.Bot(command_prefix='+')
 
 
