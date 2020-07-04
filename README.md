@@ -7,6 +7,9 @@
 + Hosting Provider:	repl.it for Python
 + Init release:	29/05/2020
 ## Want to update
-If anybody want to make a new function in my bot, please click on this link: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
+If anybody want to make a new function in my bot. Please [Issues]
 ## Changelog
-Stupid Benz Bot Changelog is https://github.com/Stupid-Benz/Stupid-Benz-Bot/blob/master/Changelog.md
+Stupid Benz Bot Changelog is [CHANGELOG.md]
+
+[Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
+[CHANGELOG.md]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/blob/master/CHANGELOG.md
