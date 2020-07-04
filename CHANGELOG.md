@@ -2,7 +2,6 @@
 ## Upcoming
 ### Nothing Now
 + Please go to [Issues]
-[Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 
 ## [1.4.0]
 ### Changed
@@ -77,6 +76,7 @@
 + Rank System
 
 [C#]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23
+[Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 [1.4.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.4.0
 [1.3.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.2
 [1.3.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.1
