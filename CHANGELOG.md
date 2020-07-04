@@ -1,5 +1,8 @@
 # [C#]
 ## Upcoming
+### Nothing Now
++ Please go to [Issuses]
+[Issue]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 
 ## [1.4.0]
 ### Changed
