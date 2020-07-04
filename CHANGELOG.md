@@ -1,4 +1,4 @@
-# C#
+# [C#]
 ## Upcoming
 
 ## [1.4.0]
@@ -64,7 +64,7 @@
 + `Ping` Command
 + `Hi` Command
 
-# Python
+# [Python]
 ## [1.1]
 ### Added
 + Karma Project System
@@ -73,7 +73,7 @@
 ### Added
 + Rank System
 
-
+[C#]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23
 [1.4.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.4.0
 [1.3.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.2
 [1.3.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.1
@@ -84,5 +84,6 @@
 [1.0.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.1
 [1.0.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.0
 
+[Python]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python
 [1.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201.0
 [1.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201.1
