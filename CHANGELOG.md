@@ -72,3 +72,17 @@
 ## [1.0]
 ### Added
 + Rank System
+
+
+[1.4.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.4.0
+[1.3.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.2
+[1.3.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.1
+[1.3.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.3.0
+[1.2.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.2.0
+[1.1.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.1.1
+[1.1.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.1.0
+[1.0.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.1
+[1.0.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.0
+
+[1.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201.0
+[1.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201.1
