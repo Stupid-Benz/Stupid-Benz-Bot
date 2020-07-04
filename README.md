@@ -9,7 +9,7 @@
 ## Want to update
 If anybody want to make a new function in my bot. Please [Issues]
 ## Changelog
-Stupid Benz Bot Changelog is [CHANGELOG.md]
+[CHANGELOG.md]
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 [CHANGELOG.md]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/blob/master/CHANGELOG.md
