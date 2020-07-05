@@ -67,7 +67,7 @@
 - `Hi` Command
 
 # [Python]
-## [1-1-1]
+## [1.1.1]
 ### Added
 - Rank number
 
@@ -94,4 +94,4 @@
 [Python]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python
 [1-0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-0
 [1-1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-1
-[1-1-1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-1-1
+[1.1.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-1-1
