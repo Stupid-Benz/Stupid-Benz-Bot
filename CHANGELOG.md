@@ -1,11 +1,14 @@
 # [C#]
 ## Upcoming
-### Nothing Now
+### Unrelease
+- New Visual Update for Help Commands
+
+### Want more
 - Please go to [Issues]
 
 ## [1.4.0]
-### Changed
-- Make some message send with embed message
+### Update
+- Visual Updated for Mathematics Commands
 
 ## [1.3.2]
 ### Repair
