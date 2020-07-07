@@ -29,6 +29,7 @@
 ### Added
 - `User Info` Command
 - A Chatbot with simple reply
+- Ping Time back to `Ping` Command
 
 ## [1.2.0]
 ### Added
