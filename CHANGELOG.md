@@ -1,61 +1,64 @@
 # [C#]
 ## Upcoming
-### Nothing Now
-+ Please go to [Issues]
+### Unrelease
+- New Visual Update for Help Commands
+
+### Want more
+- Please go to [Issues]
 
 ## [1.4.0]
-### Changed
-+ Make some message send with embed message
+### Update
+- Visual Updated for Mathematics Commands
 
 ## [1.3.2]
 ### Repair
-+ Repair Project thats makes the project without error
+- Repair Project thats makes the project without error
 
 ## [1.3.1]
 ### Deleted
 - Chatbot
 
 ### Repair
-+ Makes some commands become better
+- Makes some commands become better
 
 ## [1.3.0]
 ### Added
-+ `User Info` Command
-+ A Chatbot with simple reply
+- `User Info` Command
+- A Chatbot with simple reply
 
 ## [1.2.0]
 ### Added
-+ `Rank` Command
-+ `Spam` Command
-+ `Factor` Command
-+ `Prime Factorization` Command
+- `Rank` Command
+- `Spam` Command
+- `Factor` Command
+- `Prime Factorization` Command
 
 ### Repair
-+ Put Mathematics Command into `Mathematics Commands.cs`
+- Put Mathematics Command into `Mathematics Commands.cs`
 
 ## [1.1.1]
 ### Added
-+ `Square` Command
-+ `Cubic` Command
-+ `Quadratic` Command
+- `Square` Command
+- `Cubic` Command
+- `Quadratic` Command
 
 ### Removed
 - Ping time in `Ping` Command
 
 ## [1.1.0]
 ### Added
-+ `Hi` Command
-+ Ping time in `Ping` Command
-+ `Test` Command
-+ `Say` Command
-+ `Sine` Command
-+ `Cosine` Command
-+ `Tangent` Command
-+ `Surd` Command
-+ `Simplfy Surd` Command
+- `Hi` Command
+- Ping time in `Ping` Command
+- `Test` Command
+- `Say` Command
+- `Sine` Command
+- `Cosine` Command
+- `Tangent` Command
+- `Surd` Command
+- `Simplfy Surd` Command
 
 ### Repair
-+ Put Help Command into `Help Commands.cs`
+- Put Help Command into `Help Commands.cs`
 
 ## [1.0.1]
 ### Removed
@@ -63,21 +66,8 @@
 
 ## [1.0.0]
 ### Added
-+ `Ping` Command
-+ `Hi` Command
-
-# [Python]
-## [1-1-1]
-### Added
-+ Rank number
-
-## [1-1]
-### Added
-+ Karma Project System
-
-## [1-0]
-### Added
-+ Rank System
+- `Ping` Command
+- `Hi` Command
 
 [C#]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
@@ -90,8 +80,3 @@
 [1.1.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.1.0
 [1.0.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.1
 [1.0.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/C%23/Stupid%20Benz%20Bot%201.0.0
-
-[Python]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python
-[1-0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-0
-[1-1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-1
-[1-1-1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Python/KCCS-Official-Rank%201-1-1

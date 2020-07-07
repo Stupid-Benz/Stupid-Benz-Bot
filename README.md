@@ -8,8 +8,7 @@
 + Init release:	29/05/2020
 ## Want to update
 If anybody want to make a new function in my bot. Please [Issues]
-## Changelog
-[CHANGELOG.md]
+## [Changelog.md]
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 [CHANGELOG.md]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/blob/master/CHANGELOG.md
