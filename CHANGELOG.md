@@ -1,9 +1,14 @@
 ## Upcoming
-### Unrelease
-- New Visual Update for Help Commands
 
 ### Want more
 - Please go to [Issues]
+
+## [1.4.1]
+### Added
+- Alias for some commands
+
+### Update
+- Visual Updated for Help Commands
 
 ## [1.4.0]
 ### Update
