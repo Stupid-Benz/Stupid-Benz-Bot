@@ -17,6 +17,8 @@
 - Show errors when have errors
 
 ## [1.4.2]
+### Fixed
+- Bugs on `pf` Command
 
 ## [1.4.1]
 ### Added
