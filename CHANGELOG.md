@@ -16,6 +16,8 @@
 ### Repair
 - Show errors when have errors
 
+## [1.4.2]
+
 ## [1.4.1]
 ### Added
 - Alias for some commands
@@ -88,6 +90,8 @@
 - `Hi` Command
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
+[1.5.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.0
+[1.4.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.4.2
 [1.4.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.4.1
 [1.4.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.4.0
 [1.3.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.3.2
