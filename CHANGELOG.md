@@ -18,7 +18,7 @@
 
 ## [1.4.2]
 ### Fixed
-- Bugs on `pf` Command
+- Bugs on `Prime Factorization` Command
 
 ## [1.4.1]
 ### Added
