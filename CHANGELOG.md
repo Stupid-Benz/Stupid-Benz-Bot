@@ -3,6 +3,19 @@
 ### Want more
 - Please go to [Issues]
 
+## [1.5.0]
+### Added
+- `Base` Command
+- `!(Factorial)` Command
+- `nCr` Command
+- `nPr` Command
+
+### Update
+- Now Mode for `Sin` `Cos` `Tan` Function
+
+### Repair
+- Show errors when have errors
+
 ## [1.4.1]
 ### Added
 - Alias for some commands
