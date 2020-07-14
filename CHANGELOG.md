@@ -100,6 +100,8 @@
 - `Hi` Command
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
+[1.5.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.2
+[1.5.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.1
 [1.5.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.0
 [1.4.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.4.2
 [1.4.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.4.1
