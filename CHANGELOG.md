@@ -3,6 +3,10 @@
 ### Want more
 - Please go to [Issues]
 
+## [1.5.3]
+### Removed
+- `Spam` Command by the poll
+
 ## [1.5.2]
 ### Update
 - Make a better program for `factor` Command
@@ -100,6 +104,7 @@
 - `Hi` Command
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
+[1.5.3]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.3
 [1.5.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.2
 [1.5.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.1
 [1.5.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.0
