@@ -3,6 +3,14 @@
 ### Want more
 - Please go to [Issues]
 
+## [1.5.2]
+### Update
+- Make a better program for `factor` Command
+
+## [1.5.1]
+### Added
+- `Server-Info` Command
+
 ## [1.5.0]
 ### Added
 - `Base` Command
