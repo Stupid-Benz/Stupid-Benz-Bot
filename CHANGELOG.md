@@ -1,7 +1,6 @@
+## [Newest Config.json]
+
 ## Upcoming
-
-### [Newest Config.json]
-
 ### Want more
 - Please go to [Issues]
 
