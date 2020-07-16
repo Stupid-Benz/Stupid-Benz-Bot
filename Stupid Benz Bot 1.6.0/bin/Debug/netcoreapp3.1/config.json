@@ -1,0 +1,5 @@
+﻿{
+	"token": "<Discord-Bot-Token>",
+	"announcements-id": Announcements-Channel-ID,
+	"console-id": Console-Channel-ID
+}
