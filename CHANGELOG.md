@@ -17,6 +17,7 @@
 ### Update
 - `Avatar` Command become size first, then user
 - `Surd` Command added times function where after the number
+- `User-Info` Command added some thing
 
 ## [1.5.3]
 ### Removed
