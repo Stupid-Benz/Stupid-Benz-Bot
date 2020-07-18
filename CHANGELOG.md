@@ -1,9 +1,12 @@
+## [Newest Config.json]
+
 ## Upcoming
-
-### [Newest Config.json]
-
 ### Want more
 - Please go to [Issues]
+
+## [1.6.1]
+### Fixed
+- Some Bugs on `User-Info` Command
 
 ## [1.6.0]
 ### Added
@@ -13,6 +16,7 @@
 ### Update
 - `Avatar` Command become size first, then user
 - `Surd` Command added times function where after the number
+- `User-Info` Command added some thing
 
 ## [1.5.3]
 ### Removed
@@ -115,8 +119,9 @@
 - `Hi` Command
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
-[Newest Config.json]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0/bin/config.json
+[Newest Config.json]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.1/bin/config.json
 [`Config.json`]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0/bin/config.json
+[1.6.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.1
 [1.6.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0
 [1.5.3]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.3
 [1.5.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.2
