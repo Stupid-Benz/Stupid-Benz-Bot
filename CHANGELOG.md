@@ -1,8 +1,16 @@
-## [Newest Config.json]
+## [Newest Version]
 
 ## Upcoming
 ### Want more
 - Please go to [Issues]
+
+## Unrelease
+### Update
+- `fac` and `pf` command in assending order
+- Going to add `search roles` command
+
+### Remove
+- Server Members Name
 
 ## [1.6.1]
 ### Fixed
@@ -119,7 +127,7 @@
 - `Hi` Command
 
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
-[Newest Config.json]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.1/bin/config.json
+[Newest Version]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.2
 [`Config.json`]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0/bin/config.json
 [1.6.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.1
 [1.6.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0
