@@ -12,6 +12,11 @@
 ### Remove
 - Server Members Name
 
+## [1.6.2]
+### Added
+- Support Base 2 in `Base 16` Command
+- Support Base 16 in `Base 2` Command
+
 ## [1.6.1]
 ### Fixed
 - Some Bugs on `User-Info` Command
