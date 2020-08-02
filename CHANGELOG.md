@@ -4,16 +4,26 @@
 ### Want more
 - Please go to [Issues]
 
-## Unrelease
-### Update
-- `fac` and `pf` command in assending order
-- Going to add `search roles` command
+## [1.7.0]
+### Added
+- `PI` Command
+- `e` Command
+- `ln` Command
+- `Log` Command
+- `Csc` Command
+- `Sec` Command
+- `Cot` Command
+- `Summation` Command
+- `Multiplication` Command
 
-### Remove
-- Server Members Name
+### Update
+- New Visual Update of Help Command
+
+### Fixed
+- Separate Mathematics Command in different .cs file
 
 ## [1.6.2]
-### Added
+### Update
 - Support Base 2 in `Base 16` Command
 - Support Base 16 in `Base 2` Command
 
