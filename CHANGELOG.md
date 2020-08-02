@@ -144,8 +144,8 @@
 [Issues]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/issues/new
 [Newest Version]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.7.0
 [`Config.json`]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0/bin/config.json
-[1.6.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.7.0
-[1.6.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.2
+[1.7.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.7.0
+[1.6.2]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.2
 [1.6.1]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.1
 [1.6.0]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.6.0
 [1.5.3]: https://github.com/Stupid-Benz/Stupid-Benz-Bot/tree/master/Stupid%20Benz%20Bot%201.5.3
