@@ -1,7 +1,0 @@
-﻿{
-	"token": "<Token>",
-	"prefix": "<Prefix>",
-	"current-server-id": <Server-Id>,
-	"announcements-id": <Announcements-Channel-ID>,
-	"console-id": <Console-Channel-ID>
-}
