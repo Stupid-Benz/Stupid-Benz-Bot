@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Misaka Project", "Misaka Project\Misaka Project.csproj", "{BC630B11-AE90-45EB-9828-4B0133EBB426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misaka Project Infrastructure", "Misaka Project Infrastructure\Misaka Project Infrastructure.csproj", "{072FDCBB-1514-4372-82AE-20472D3CF009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC630B11-AE90-45EB-9828-4B0133EBB426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC630B11-AE90-45EB-9828-4B0133EBB426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC630B11-AE90-45EB-9828-4B0133EBB426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC630B11-AE90-45EB-9828-4B0133EBB426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072FDCBB-1514-4372-82AE-20472D3CF009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072FDCBB-1514-4372-82AE-20472D3CF009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072FDCBB-1514-4372-82AE-20472D3CF009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072FDCBB-1514-4372-82AE-20472D3CF009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F67FA4D-1498-48ED-B81F-D22FD86E02CF}
+	EndGlobalSection
+EndGlobal

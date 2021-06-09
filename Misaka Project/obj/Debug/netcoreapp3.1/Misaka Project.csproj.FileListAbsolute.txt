@@ -1,0 +1,57 @@
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.exe
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\_config.yml
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.deps.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.runtimeconfig.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.runtimeconfig.dev.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.csprojAssemblyReference.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.AssemblyInfoInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.AssemblyInfo.cs
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.csproj.CoreCompileInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.csproj.CopyComplete
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\obj\Debug\netcoreapp3.1\Misaka Project.genruntimeconfig.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

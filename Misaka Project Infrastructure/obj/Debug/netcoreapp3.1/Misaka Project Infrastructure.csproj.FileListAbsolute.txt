@@ -1,0 +1,12 @@
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.deps.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.runtimeconfig.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.runtimeconfig.dev.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\Misaka Project Infrastructure.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.csprojAssemblyReference.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.AssemblyInfo.cs
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\obj\Debug\netcoreapp3.1\Misaka Project Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Misaka Project Infrastructure.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Misaka Project Infrastructure.runtimeconfig.json
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Misaka Project Infrastructure.pdb
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Bcl.HashCode.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Logging.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Options.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\MySqlConnector.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Newtonsoft.Json.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Pomelo.JsonObject.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\System.Collections.Immutable.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tpwon\source\repos\Misaka Project\Misaka Project Infrastructure\bin\Debug\netcoreapp3.1\linux-arm\publish\Misaka Project Infrastructure.deps.json
