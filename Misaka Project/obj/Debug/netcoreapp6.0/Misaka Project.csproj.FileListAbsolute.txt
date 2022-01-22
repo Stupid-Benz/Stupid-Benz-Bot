@@ -1,0 +1,46 @@
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Misaka Project.exe
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\_config.yml
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Misaka Project.deps.json
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Misaka Project.runtimeconfig.json
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\ref\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Misaka Project.pdb
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Commands.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Core.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Rest.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Webhook.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.WebSocket.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\NetEscapades.Configuration.Yaml.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Newtonsoft.Json.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\System.Drawing.Common.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\System.Interactive.Async.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\System.Linq.Async.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\YamlDotNet.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.csproj.AssemblyReference.cache
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.AssemblyInfoInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.AssemblyInfo.cs
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.csproj.CoreCompileInputs.cache
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.csproj.CopyComplete
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\ref\Misaka Project.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.pdb
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\obj\Debug\netcoreapp6.0\Misaka Project.genruntimeconfig.cache
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Interactions.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\System.Reactive.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\Discord.Net.Providers.WS4Net.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\SuperSocket.ClientEngine.dll
+C:\Users\tpwon\source\repos\Misaka Project Without Database\Misaka Project\bin\Debug\netcoreapp6.0\WebSocket4Net.dll

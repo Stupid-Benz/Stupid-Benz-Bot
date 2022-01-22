@@ -2,22 +2,21 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
     <RootNamespace>Misaka_Project</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Discord.Net" Version="2.4.0" />
-    <PackageReference Include="Discord.Net.Commands" Version="2.4.0" />
-    <PackageReference Include="Discord.Net.Core" Version="2.4.0" />
-    <PackageReference Include="Discord.Net.WebSocket" Version="2.4.0" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Discord.Net" Version="3.2.0" />
+    <PackageReference Include="Discord.Net.Commands" Version="3.2.0" />
+    <PackageReference Include="Discord.Net.Core" Version="3.2.0" />
+    <PackageReference Include="Discord.Net.Providers.WS4Net" Version="2.4.0" />
+    <PackageReference Include="Discord.Net.Rest" Version="3.2.0" />
+    <PackageReference Include="Discord.Net.Webhook" Version="3.2.0" />
+    <PackageReference Include="Discord.Net.WebSocket" Version="3.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="NetEscapades.Configuration.Yaml" Version="2.1.0" />
-    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Misaka Project Infrastructure\Misaka Project Infrastructure.csproj" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>

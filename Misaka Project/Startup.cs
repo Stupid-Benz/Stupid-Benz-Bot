@@ -5,8 +5,8 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading.Tasks;
 using Misaka_Project.Services;
-using Misaka_Project_Infrastructure;
 using Misaka_Project.Utilities;
+using Discord.Interactions;
 
 namespace Misaka_Project
 {
@@ -35,6 +35,7 @@ namespace Misaka_Project
 
             var provider = services.BuildServiceProvider();
             provider.GetRequiredService<CommandHandler>();
+            provider.GetRequiredService<InteractionService>();
 
             await provider.GetRequiredService<StartupService>().StartAsync();
             await Task.Delay(-1);
@@ -43,8 +44,6 @@ namespace Misaka_Project
         private void ConfigureServices(IServiceCollection services)
         {
             services
-                .AddDbContext<Context>()
-                .AddSingleton<Servers>()
                 .AddSingleton<Images>()
                 .AddSingleton(new DiscordSocketClient(new DiscordSocketConfig
                 {
@@ -54,9 +53,10 @@ namespace Misaka_Project
                 .AddSingleton(new CommandService(new CommandServiceConfig
                 {
                     LogLevel = Discord.LogSeverity.Verbose,
-                    DefaultRunMode = RunMode.Async,
+                    DefaultRunMode = Discord.Commands.RunMode.Async,
                     CaseSensitiveCommands = false
                 }))
+                .AddSingleton<InteractionService>()
                 .AddSingleton<CommandHandler>()
                 .AddSingleton<StartupService>()
                 .AddSingleton(Configuration);

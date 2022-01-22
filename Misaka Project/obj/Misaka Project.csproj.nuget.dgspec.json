@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project\\Misaka Project.csproj": {}
+    "C:\\Users\\tpwon\\source\\repos\\Misaka Project Without Database\\Misaka Project\\Misaka Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\Misaka Project Infrastructure.csproj": {
+    "C:\\Users\\tpwon\\source\\repos\\Misaka Project Without Database\\Misaka Project\\Misaka Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\Misaka Project Infrastructure.csproj",
-        "projectName": "Misaka Project Infrastructure",
-        "projectPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\Misaka Project Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\tpwon\\source\\repos\\Misaka Project Without Database\\Misaka Project\\Misaka Project.csproj",
+        "projectName": "Misaka Project",
+        "projectPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project Without Database\\Misaka Project\\Misaka Project.csproj",
         "packagesPath": "C:\\Users\\tpwon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project Without Database\\Misaka Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "netcoreapp6.0",
             "projectReferences": {}
           }
         },
@@ -37,111 +37,40 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational": {
-              "target": "Package",
-              "version": "[3.1.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.15, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[3.2.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-arm": {
-          "#import": []
-        }
-      }
-    },
-    "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project\\Misaka Project.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project\\Misaka Project.csproj",
-        "projectName": "Misaka Project",
-        "projectPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project\\Misaka Project.csproj",
-        "packagesPath": "C:\\Users\\tpwon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\tpwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\Misaka Project Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\tpwon\\source\\repos\\Misaka Project\\Misaka Project Infrastructure\\Misaka Project Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
           "dependencies": {
             "Discord.Net": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[3.2.0, )"
             },
             "Discord.Net.Commands": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[3.2.0, )"
             },
             "Discord.Net.Core": {
               "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Discord.Net.Providers.WS4Net": {
+              "target": "Package",
               "version": "[2.4.0, )"
+            },
+            "Discord.Net.Rest": {
+              "target": "Package",
+              "version": "[3.2.0, )"
             },
             "Discord.Net.WebSocket": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[3.2.0, )"
+            },
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[3.2.0, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[6.0.0, )"
             },
             "NetEscapades.Configuration.Yaml": {
               "target": "Package",
@@ -149,7 +78,7 @@
             },
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -162,31 +91,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
-              "version": "[3.1.11, 3.1.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-arm",
-              "version": "[3.1.11, 3.1.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
-              "version": "[3.1.11, 3.1.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-arm": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

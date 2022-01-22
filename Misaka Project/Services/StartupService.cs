@@ -1,9 +1,11 @@
 ﻿using Discord;
 using Discord.Commands;
+using Discord.Interactions;
 using Discord.WebSocket;
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Reflection;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Misaka_Project.Services
@@ -14,13 +16,15 @@ namespace Misaka_Project.Services
         private readonly DiscordSocketClient _discord;
         private readonly CommandService _commands;
         private readonly IConfigurationRoot _config;
+        private readonly InteractionService _interaction;
 
-        public StartupService(IServiceProvider provider, DiscordSocketClient discord, CommandService commands, IConfigurationRoot config)
+        public StartupService(IServiceProvider provider, DiscordSocketClient discord, CommandService commands, IConfigurationRoot config, InteractionService interaction)
         {
             _provider = provider;
             _discord = discord;
             _commands = commands;
             _config = config;
+            _interaction = interaction;
         }
 
         public async Task StartAsync()
@@ -36,6 +40,9 @@ namespace Misaka_Project.Services
             await _discord.StartAsync();
 
             await _commands.AddModulesAsync(Assembly.GetEntryAssembly(), _provider);
+            await _interaction.AddModulesAsync(Assembly.GetEntryAssembly(), _provider);
+
+            await Task.Delay(Timeout.Infinite);
         }
     }
 }

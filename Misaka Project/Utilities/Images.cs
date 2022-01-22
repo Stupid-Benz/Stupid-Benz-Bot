@@ -10,10 +10,10 @@ namespace Misaka_Project.Utilities
 {
     public class Images
     {
-        public async Task<string> CreateImageAsync(SocketGuildUser user)
+        public async Task<string> CreateImageAsync(SocketGuildUser user, string pic_url)
         {
             var avatar = await FetchImageAsync(user.GetAvatarUrl(size: 2048, format: Discord.ImageFormat.Png) ?? user.GetDefaultAvatarUrl());
-            var background = await FetchImageAsync("https://wallpaperaccess.com/full/3520264.jpg");
+            var background = await FetchImageAsync(pic_url);
 
             background = CropToBanner(background);
             avatar = ClipImageToCircle(avatar);
@@ -33,7 +33,7 @@ namespace Misaka_Project.Utilities
         {
             var originalWidth = Image.Width;
             var originalHeight = Image.Height;
-            var destinationSize = new Size(1920, 1080);
+            var destinationSize = new Size(2220, 1080);
 
             var heightRatio = (float)originalHeight / destinationSize.Height;
             var widthRatio = (float)originalWidth / destinationSize.Width;
